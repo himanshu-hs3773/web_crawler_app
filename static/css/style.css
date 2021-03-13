@@ -1,0 +1,38 @@
+.card {
+    height: 400px; /* Your height here */
+    overflow: hidden;
+}
+
+.card-image {
+    height: 250px; /* Your height here */
+    overflow: hidden;
+}
+
+
+.page-header {
+    color: #D0D3D4;
+
+    height: 300px;
+
+    text-align: center;
+    background-color: #000;
+    background-image: linear-gradient(#e66465, #9198e5);
+}
+
+form {
+    background-color: #AEB6BF ;
+    border-radius: 5px;
+}
+
+
+::placeholder {
+    align: center;
+    color: #000;
+    opacity: 0.7;
+}
+
+
+button {
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -9,4 +9,4 @@
 
 ### Search Page View
 
-![Home Page](./templates/images/home_page.png)
+![Home Page](./templates/images/search_page.png)
